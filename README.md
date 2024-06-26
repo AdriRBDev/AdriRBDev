@@ -1,6 +1,7 @@
 ![Banner]([https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg](https://media.licdn.com/dms/image/D4D16AQENGUzISyMSlg/profile-displaybackgroundimage-shrink_350_1400/0/1717270397184?e=1724889600&v=beta&t=wZ4rgenPeOUi50_xFm0G5k1KwVBgRvpF9nueCoS-dMA))
 
 
+
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
@@ -11,23 +12,34 @@
 Description
 </p>
 
+# What I'm doing
+
+- 🔭 I’m currently working on [Indra](https://www.indracompany.com/)
+
+- 🌱 I’m currently learning **Javascript** and **Design**
+
+- 👯 I’m looking to create my own **videogame**
+
+- 👨‍💻 All of my projects are available at [my profile](https://github.com/AdriRBDev)
+
+- 📫 How to reach me **adrian.rodriguez.bolin@gmail.com**
+
+- ⚡ Fun fact: **Big fan of photography**
+
+
 <!-- Personal Stuffs -->
 <h3> Talking about personal stuffs:</h3>
 
 Personal things
 
 <!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
-<!--<a href="https://twitter.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://fb.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://instagram.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://hashnode.com/@kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/hashnode.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://dev.to/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/dev.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://mubinsodyssey.com" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/mubinsodyssey.svg" alt="mubinsodyssey" height="30" width="30" /></a>-->
-</p>
+[<img src='https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/adri%C3%A1n-rodr%C3%ADguez-b8540a311/)&nbsp;
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/AdriRBDev)&nbsp;  
+
+<img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
+ <br/>
 
 <!-- Languages and tools -->
 <h3 align="left">Languages and Tools:</h3>
