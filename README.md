@@ -1,4 +1,4 @@
-![Banner]([https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg](https://media.licdn.com/dms/image/D4D16AQENGUzISyMSlg/profile-displaybackgroundimage-shrink_350_1400/0/1717270397184?e=1724889600&v=beta&t=wZ4rgenPeOUi50_xFm0G5k1KwVBgRvpF9nueCoS-dMA))
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQENGUzISyMSlg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719350628646?e=1730332800&v=beta&t=mbcERnAK-lrkOpSJVM2ahEatzlu5hAzFsIEa3AzxpEA)
 
 
 
@@ -9,7 +9,17 @@
 
 <!-- About me -->
 <p>
-Description
+Hi, I'm Adrian, a computer enthusiast with a deep interest in technology and an adventurous spirit that leads me to explore new places and cultures. Since my studies in the Technological Baccalaureate, I knew that computer science was the field in which I wanted to develop my professional career.
+
+I have completed an Advanced Degree in Application and Video Game Development, and I continue to improve my skills to achieve my goals, develop personal projects and grow as a professional in the sector.
+
+I have experience in software development, specializing in languages such as C# and Python, as well as in database administration and modification. In addition, I am proficient in technologies for the creation of web pages and APIs, using JavaScript, HTML and CSS, and I have skills in design and 3D modeling with Blender.
+
+I am passionate about facing challenges and finding innovative solutions through creative thinking. My communication and comprehension skills allow me to collaborate effectively in teams and build strong relationships with my coworkers.
+
+I am constantly looking for opportunities to learn and contribute to projects that allow me to grow both professionally and personally.
+
+Translated with DeepL.com (free version)
 </p>
 
 # What I'm doing
